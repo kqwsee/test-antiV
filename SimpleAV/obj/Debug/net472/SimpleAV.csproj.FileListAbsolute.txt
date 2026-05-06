@@ -1,0 +1,13 @@
+C:\Users\userD\Desktop\vir\SimpleAV\bin\Debug\net472\SimpleAV.exe.config
+C:\Users\userD\Desktop\vir\SimpleAV\bin\Debug\net472\SimpleAV.exe
+C:\Users\userD\Desktop\vir\SimpleAV\bin\Debug\net472\SimpleAV.pdb
+C:\Users\userD\Desktop\vir\SimpleAV\bin\Debug\net472\CommandLine.dll
+C:\Users\userD\Desktop\vir\SimpleAV\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.csproj.AssemblyReference.cache
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.AssemblyInfoInputs.cache
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.AssemblyInfo.cs
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.csproj.CoreCompileInputs.cache
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.csproj.Up2Date
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.exe
+C:\Users\userD\Desktop\vir\SimpleAV\obj\Debug\net472\SimpleAV.pdb

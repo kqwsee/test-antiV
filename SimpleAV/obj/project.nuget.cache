@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tWWq8yefMbs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\userD\\Desktop\\vir\\SimpleAV\\TEAV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\userD\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512",
+    "C:\\Users\\userD\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
