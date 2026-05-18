@@ -1,0 +1,13 @@
+C:\Users\userD\Desktop\vir\TEAV-beta\bin\Release\net472\TEAV-beta.exe.config
+C:\Users\userD\Desktop\vir\TEAV-beta\bin\Release\net472\TEAV-beta.exe
+C:\Users\userD\Desktop\vir\TEAV-beta\bin\Release\net472\TEAV-beta.pdb
+C:\Users\userD\Desktop\vir\TEAV-beta\bin\Release\net472\CommandLine.dll
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.csproj.AssemblyReference.cache
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.AssemblyInfoInputs.cache
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.AssemblyInfo.cs
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.csproj.CoreCompileInputs.cache
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.sourcelink.json
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.csproj.Up2Date
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.exe
+C:\Users\userD\Desktop\vir\TEAV-beta\obj\Release\net472\TEAV-beta.pdb

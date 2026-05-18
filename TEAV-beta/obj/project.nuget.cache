@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "klefcTtUrOg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\userD\\Desktop\\vir\\TEAV-beta\\TEAV-beta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\userD\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
